@@ -6,4 +6,4 @@ This is a repository to practice on git commands.
 
 Mathieu
 Clemence
-Loic
+Patricia
