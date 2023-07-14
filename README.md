@@ -6,9 +6,9 @@ This is a repository to practice on git commands.
 
 Clemence
 Loic
-- 1
-- 2
-- 3
+- 9
+- 10
+- 11
 - 4
 - 6
 - 8
