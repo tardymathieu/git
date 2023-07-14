@@ -6,4 +6,5 @@ This is a repository to practice on git commands.
 
 Clemence
 Loic
-Astrid
+- 2
+- 3
